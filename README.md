@@ -22,10 +22,10 @@
   <a href="https://github.com/Chore-Quest/Chore-Quest">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chore-Quest&repo=Chore-Quest&theme=tokyonight" height="200" width="400"/>
   </a>
-  <!--
-   <a href="https://github.com/mdflynn/game-sleuth">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=game-sleuth&theme=tokyonight" height="200" width="400"/>
+   <a href="https://github.com/Illmaticno1/pong">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=illmaticno1&repo=pong&theme=tokyonight" height="200" width="400"/>
   </a>
+  <!--
    -->
 </div>
 
