@@ -60,8 +60,6 @@
 
 ---
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
 - 🔭 I recently graduated from [Fullstack Academy](https://www.fullstackacademy.com/) as a Software Developer.
 - 🌱 Currently sharpening the tools in my box.
 - 💬 Ask me about
