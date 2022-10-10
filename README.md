@@ -6,11 +6,10 @@
   <a href="https://www.linkedin.com/in/demetriusirobinson//"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
   <a href="https://twitter.com/mikeflynncodes"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-b1361e.svg?style=for-the-badge&logo=Twitter&colorB=14171A">
   <a href="mailto:demetrius.robinson.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+![](https://komarev.com/ghpvc/?username=illmaticno1)
 </div>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=illmaticno1)
 
 <div align="center">
   <a href="https://github.com/illmaticno1/github-readme-stats">
