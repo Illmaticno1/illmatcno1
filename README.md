@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/illmaticno1/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" height="200" width="500"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=illmaticno1&hide=contribs,issues)" height="200" width="500"/>
   </a>
   <a href="https://github.com/illmaticno1/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdflynn&theme=tokyonight" height="200" width="300"/>
