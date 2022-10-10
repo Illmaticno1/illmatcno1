@@ -1,8 +1,5 @@
 ![Demetrius Robinson](https://www.freewebheaders.com/wp-content/gallery/computer/hi-tech-computer-keyboard-blue-red-website-header.jpg 'Demetrius Robinson')
 
-<div align='center'>
-  <img src="https://profile-counter.glitch.me/{Illmaticno1}/count.svg" alt="Illmaticno1 :: Visitor's Count" />
-</div>
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -18,8 +15,9 @@
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white" />
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=illmaticno1&theme=react-dark&hide_border=true&area=true)
+<div align='center'>
+  <img src="https://profile-counter.glitch.me/{Illmaticno1}/count.svg" alt="Illmaticno1 :: Visitor's Count" />
+</div>
 
 ---
 
@@ -56,6 +54,7 @@
 ---
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=illmaticno1&theme=react-dark&hide_border=true&area=true)
 
 ---
 
