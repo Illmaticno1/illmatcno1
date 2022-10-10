@@ -3,6 +3,7 @@
 <div align='center'>
   <img src="https://profile-counter.glitch.me/{Illmaticno1}/count.svg" alt="Illmaticno1 :: Visitor's Count" />
 </div>
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=illmaticno1&theme=react-dark&hide_border=true&area=true)
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
