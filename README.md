@@ -60,8 +60,7 @@
 ---
 
 <div align="center">
-  <h3>🔭 I recently graduated from <a href="https://www.fullstackacademy.com/"> Fullstack Academy</a> as a Software Developer.</h3><br />
-  <h3>🌱 Currently sharpening the tools in my box.</h3> <br />]
-  <h3>👯 I’m looking to collaborate on any project that will help me grow as a developer.</h3> <br />
-  <h3>💯 code is life!</h3> <br />
-</div>
+  <h3>🔭 I recently graduated from <a href="https://www.fullstackacademy.com/"> Fullstack Academy</a> as a Software Developer.</h3>
+  <h3>🌱 Currently sharpening the tools in my box.</h3>
+  <h3>👯 I’m looking to collaborate on any project that will help me grow as a developer.</h3>
+  <h3>💯 code is life!</h3>
