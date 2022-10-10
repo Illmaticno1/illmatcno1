@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-  <span>🔭</span> I recently graduated from <a href="https://www.fullstackacademy.com/"> Fullstack Academy</a> as a Software Developer.<br />
+  <h3>🔭 I recently graduated from <a href="https://www.fullstackacademy.com/"> Fullstack Academy</a> as a Software Developer.</h3><br />
   🌱 Currently sharpening the tools in my box. <br />]
   👯 I’m looking to collaborate on any project that will help me grow as a developer. <br />
   💯 code is life <br />
