@@ -11,6 +11,7 @@
 ---
 
 <div align="center">
+![](https://komarev.com/ghpvc/?username=illmaticno1)
   <a href="https://github.com/illmaticno1/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdflynn&show_icons=true&theme=tokyonight" height="200" width="500"/>
   </a>
