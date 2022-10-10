@@ -61,7 +61,5 @@
 
 - 🔭 I recently graduated from [Fullstack Academy](https://www.fullstackacademy.com/) as a Software Developer.
 - 🌱 Currently sharpening the tools in my box.
-- 💬 Ask me about
-  - Sports
-  - Music
-  - Movies
+- 👯 I’m looking to collaborate on any project that will help me grow as a developer.
+- 💯 code is life
