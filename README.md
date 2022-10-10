@@ -1,5 +1,5 @@
 ![Demetrius Robinson](https://www.freewebheaders.com/wp-content/gallery/computer/hi-tech-computer-keyboard-blue-red-website-header.jpg 'Demetrius Robinson')
-![](https://komarev.com/ghpvc/?username=illmaticno1)
+![](https://komarev.com/ghpvc/?username=illmaticno1&color=grey&style=for-the-badge)
 
 ---
 
