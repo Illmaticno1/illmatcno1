@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/demetriusirobinson//"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
   <a href="https://twitter.com/mikeflynncodes"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-b1361e.svg?style=for-the-badge&logo=Twitter&colorB=14171A">
   <a href="mailto:demetrius.robinson.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 
 ---
@@ -58,6 +57,8 @@
 </div>
 
 ---
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 - 🔭 I recently graduated from [Fullstack Academy](https://www.fullstackacademy.com/) as a Software Developer.
 - 🌱 Currently sharpening the tools in my box.
