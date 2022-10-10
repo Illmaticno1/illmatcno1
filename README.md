@@ -11,7 +11,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illmaticno1)](https://github.com/illmaticno1/github-readme-stats)
+[![Illmaticno1's GitHub stats](https://github-readme-stats.vercel.app/api?username=illmaticno1)](https://github.com/illmaticno1/github-readme-stats.vercel.app/api?username=illmaticno1&hide=contribs,prs)
 
 <div align="center">
   <a href="https://github.com/illmaticno1/github-readme-stats">
