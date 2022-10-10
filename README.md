@@ -1,5 +1,5 @@
 ![Demetrius Robinson](https://www.freewebheaders.com/wp-content/gallery/computer/hi-tech-computer-keyboard-blue-red-website-header.jpg 'Demetrius Robinson')
-![](https://komarev.com/ghpvc/?username=illmaticno1&color=grey&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=illmaticno1&color=grey&style=FOR-THE-BADGE)
 
 ---
 
@@ -10,6 +10,8 @@
 </div>
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illmaticno1)](https://github.com/illmaticno1/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/illmaticno1/github-readme-stats">
