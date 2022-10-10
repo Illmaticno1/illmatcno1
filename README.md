@@ -28,6 +28,7 @@
   <a href="https://github.com/2202-MistyRose/MistyRose-GS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2202-MistyRose&repo=MistyRose-GS&theme=tokyonight" height="200" width="400"/>
   </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=illmaticno1&theme=tokyonight" alt="mystreak"/>
   <!--
    -->
 </div>
