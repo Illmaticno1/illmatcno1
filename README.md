@@ -1,6 +1,7 @@
 ![Demetrius Robinson](https://www.freewebheaders.com/wp-content/gallery/computer/hi-tech-computer-keyboard-blue-red-website-header.jpg 'Demetrius Robinson')
 <img src="https://profile-counter.glitch.me/{Illmaticno1}/count.svg" alt="Illmaticno1 :: Visitor's Count" />
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=illmaticno1&theme=react-dark&hide_border=true&area=true)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 ---
 
