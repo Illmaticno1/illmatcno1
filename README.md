@@ -28,10 +28,10 @@
   <a href="https://github.com/2202-MistyRose/MistyRose-GS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2202-MistyRose&repo=MistyRose-GS&theme=tokyonight" height="200" width="400"/>
   </a>
-  [![illmaticno1's GitHub stats](https://github-readme-stats.vercel.app/api?username=illmaticno1)](https://github.com/illmaticno1/github-readme-stats)
   <!--
    -->
 </div>
+  [![illmaticno1's GitHub stats](https://github-readme-stats.vercel.app/api?username=illmaticno1)](https://github.com/illmaticno1/github-readme-stats)
 
 ---
 
