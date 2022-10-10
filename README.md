@@ -60,8 +60,8 @@
 ---
 
 <div align="center">
-- 🔭 I recently graduated from [Fullstack Academy](https://www.fullstackacademy.com/) as a Software Developer.
-- 🌱 Currently sharpening the tools in my box.
-- 👯 I’m looking to collaborate on any project that will help me grow as a developer.
-- 💯 code is life
+- 🔭 I recently graduated from [Fullstack Academy](https://www.fullstackacademy.com/) as a Software Developer. <br />
+- 🌱 Currently sharpening the tools in my box. <br />
+- 👯 I’m looking to collaborate on any project that will help me grow as a developer. <br />
+- 💯 code is life <br />
   </div>
