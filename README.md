@@ -31,7 +31,7 @@
   <!--
    -->
 </div>
-  [![illmaticno1's GitHub stats](https://github-readme-stats.vercel.app/api/username=illmaticno1)](https://github.com/illmaticno1/github-readme-stats)
+  [![illmaticno1's GitHub stats](https://github-readme-stats.vercel.app/api/username=illmaticno1)](https://github.com/illmaticno1/illmaticno1/github-readme-stats)
 
 ---
 
