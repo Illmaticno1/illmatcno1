@@ -11,7 +11,7 @@
 
 ---
 
-[![Illmaticno1's GitHub stats](https://github-readme-stats.vercel.app/api?username=illmaticno1&hide=contribs)](https://github.com/illmaticno1/github-readme-stats)
+[![Illmaticno1's GitHub stats](https://github-readme-stats.vercel.app/api?username=illmaticno1&hide=contribs,issues)](https://github.com/illmaticno1/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/illmaticno1/github-readme-stats">
