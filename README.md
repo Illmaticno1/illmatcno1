@@ -1,4 +1,12 @@
-![Demetrius Robinson](https://www.freewebheaders.com/wp-content/gallery/computer/hi-tech-computer-keyboard-blue-red-website-header.jpg 'Demetrius Robinson')
+## ![Demetrius Robinson](https://www.freewebheaders.com/wp-content/gallery/computer/hi-tech-computer-keyboard-blue-red-website-header.jpg 'Demetrius Robinson')
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/demetriusirobinson//"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+  <a href="https://twitter.com/mikeflynncodes"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-b1361e.svg?style=for-the-badge&logo=Twitter&colorB=14171A">
+  <a href="mailto:demetrius.robinson.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+</div>
+
+---
 
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
@@ -18,16 +26,6 @@
 <div align='center'>
   <img src="https://profile-counter.glitch.me/{Illmaticno1}/count.svg" alt="Illmaticno1 :: Visitor's Count" />
 </div>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/demetriusirobinson//"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
-  <a href="https://twitter.com/mikeflynncodes"><img alt="twitter" src="https://img.shields.io/badge/-Twitter-b1361e.svg?style=for-the-badge&logo=Twitter&colorB=14171A">
-  <a href="mailto:demetrius.robinson.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
-</div>
-
----
 
 <div align="center">
   <a href="https://github.com/illmaticno1/github-readme-stats">
