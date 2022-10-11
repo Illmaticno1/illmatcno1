@@ -61,7 +61,7 @@
 
 ---
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://github.com/Illmaticno1/github-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=illmaticno1&theme=react-dark&hide_border=true&area=true)
 
