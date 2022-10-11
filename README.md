@@ -61,7 +61,7 @@
 
 ---
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/illmaticno1/github-readme/blob/output/github-contribution-snake.svg)
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=illmaticno1&theme=react-dark&hide_border=true&area=true)
 
 ---
